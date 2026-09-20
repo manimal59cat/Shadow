@@ -222,4 +222,4 @@ Shadow is the full free version of the Kodi add-on, providing all features and u
 Don’t miss out on the opportunity to elevate your viewing experience. Download Shadow now and start exploring the world of cinema at your fingertips!
 
 ---
-**Last updated:** 2026-09-20 07:08:57 UTC
+**Last updated:** 2026-09-20 12:39:45 UTC
